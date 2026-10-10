@@ -14,7 +14,7 @@ A Go implementation of [TypeID](https://github.com/jetify-com/typeid), which com
 Install the package using `go get`:
 
 ```bash
-go get github.com/pixeldump/typeid-go
+go get github.com/allhingeslost/typeid-go
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ package main
 import (
 	"fmt"
 
-	typeid "github.com/pixeldump/typeid-go"
+	typeid "github.com/allhingeslost/typeid-go"
 )
 
 func main() {
