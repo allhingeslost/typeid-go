@@ -1,4 +1,4 @@
-# TypeId Go
+# TypeID Go
 
 A Go implementation of [TypeID](https://github.com/jetify-com/typeid), which combines a type name with a [ULID](https://github.com/ulid/spec) to create globally unique, sortable, and human-readable identifiers.
 
